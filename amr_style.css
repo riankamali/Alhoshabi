@@ -1,0 +1,19 @@
+body
+{
+    background-color: rgb(83, 126, 182);
+    border: 2px solid rgb(11, 9, 9);
+    margin: 30px;
+    padding: 30px;
+
+}
+#d1{
+    text-align: center;
+    border: 1px solid black;
+    background-color: rgb(54, 89, 120);
+}
+footer{
+    text-align: center;
+    border: 1px solid black;
+    background-color: rgb(138, 175, 244);
+    margin-top: 20px;
+}
